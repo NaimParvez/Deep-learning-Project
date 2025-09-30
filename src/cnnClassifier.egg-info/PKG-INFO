@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/NaimParvez/Deep-Learning-Project
+Author: NaimParvez
+Author-email: naimparvez999@gmail.com
+Project-URL: Bug Tracker, https://github.com/NaimParvez/Deep-Learning-Project/issues
+License-File: LICENSE
+
+# Deep learning Project
+An end to end chicken coccidiosis disease detection project
